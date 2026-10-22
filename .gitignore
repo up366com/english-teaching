@@ -1,0 +1,60 @@
+# ---------- 依赖 ----------
+node_modules/
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ---------- 运行期数据（不要提交） ----------
+# SQLite 数据库、上传文件、日志、缓存、静态导出
+data/
+storage/uploads/
+storage/logs/
+storage/cache/
+storage/static/
+*.sqlite
+*.sqlite-journal
+*.sqlite-wal
+*.sqlite-shm
+*.db
+
+# ---------- 环境与密钥 ----------
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+session_secret*
+
+# ---------- 生成型 GEO 文件 ----------
+# 这些文件由 `npm run site:install` 与运行时按站点域名动态生成，
+# 只有示例仓库才需要保留快照，正常开发时请忽略，避免把本地域名提交上去。
+# llms.txt
+# llms-full.txt
+# llms-en.txt
+# llms-full-en.txt
+# sitemap.xml
+# robots.txt
+
+# ---------- 编辑器 / 系统 ----------
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---------- 构建与临时产物 ----------
+dist/
+build/
+coverage/
+.tmp/
+tmp/
+*.log
+!.gitkeep
+
+# ---------- 本机调试 ----------
+*.local
+*.bak
+*.orig

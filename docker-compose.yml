@@ -1,0 +1,74 @@
+# 天学网英语教学 APP · docker compose
+#
+#   docker compose up -d --build
+#   然后访问 http://localhost:8080
+#
+# 首次启动会自动建表并灌入中英双语初始内容，管理员密码取自 .env 或下面的环境变量。
+# 数据挂在 ./data 与 ./storage，删容器不丢内容。
+
+services:
+  up366:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: up366/english-teaching:1.0.0
+    container_name: up366
+    restart: unless-stopped
+    ports:
+      - "${HZ_PUBLISH_PORT:-8080}:3000"
+    environment:
+      NODE_ENV: production
+      HZ_PORT: "3000"
+      TZ: Asia/Shanghai
+      # 站点域名（影响 canonical / sitemap / llms.txt 里的绝对地址）
+      HZ_DOMAIN: "${HZ_DOMAIN:-http://localhost:8080}"
+      # 首次启动创建的管理员
+      HZ_ADMIN_USER: "${HZ_ADMIN_USER:-admin}"
+      HZ_ADMIN_PASS: "${HZ_ADMIN_PASS:-}"
+      # 子目录部署时填前缀，例如 /up366；根目录部署留空
+      HZ_BASE_PATH: "${HZ_BASE_PATH:-}"
+      # 调试模式务必关闭
+      HZ_DEBUG: "0"
+      # 默认 SQLite；要换 MySQL 改成 mysql 并启用下面的 db 服务
+      HZ_DB_DRIVER: "${HZ_DB_DRIVER:-sqlite}"
+      HZ_DB_HOST: "${HZ_DB_HOST:-db}"
+      HZ_DB_PORT: "3306"
+      HZ_DB_NAME: "${HZ_DB_NAME:-up366}"
+      HZ_DB_USER: "${HZ_DB_USER:-up366}"
+      HZ_DB_PASS: "${HZ_DB_PASS:-up366pass}"
+    volumes:
+      - ./data:/app/data
+      - ./storage:/app/storage
+    healthcheck:
+      test: ["CMD", "node", "-e", "fetch('http://127.0.0.1:3000/').then(r=>process.exit(r.ok?0:1)).catch(()=>process.exit(1))"]
+      interval: 30s
+      timeout: 5s
+      start_period: 30s
+      retries: 3
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "3"
+
+  # 可选：把 HZ_DB_DRIVER 设为 mysql 后启用本服务
+  db:
+    image: mysql:8.4
+    container_name: up366-db
+    restart: unless-stopped
+    profiles: ["mysql"]
+    command:
+      - --character-set-server=utf8mb4
+      - --collation-server=utf8mb4_unicode_ci
+    environment:
+      MYSQL_ROOT_PASSWORD: "${HZ_DB_ROOT_PASS:-rootpass}"
+      MYSQL_DATABASE: "${HZ_DB_NAME:-up366}"
+      MYSQL_USER: "${HZ_DB_USER:-up366}"
+      MYSQL_PASSWORD: "${HZ_DB_PASS:-up366pass}"
+    volumes:
+      - ./data/mysql:/var/lib/mysql
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "127.0.0.1", "-p${HZ_DB_ROOT_PASS:-rootpass}"]
+      interval: 10s
+      timeout: 5s
+      retries: 10

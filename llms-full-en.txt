@@ -1,0 +1,311 @@
+# 天学网 · 英语教学 — Full Content
+
+## Services
+
+### Speaking Practice & Assessment
+
+Students complete reading aloud, situational Q&A and topic presentation online. The engine locates problems at the level of word stress, linking and intonation, provides model pronunciation and targeted practice, and turns progress into a report teachers can teach from.
+
+Speaking is the easiest skill to hide behind a feeling: students think they read fluently, and a teacher cannot listen to a whole class inside 45 minutes. Tianxuewang breaks the problem into three steps: assess, diagnose, recommend.
+Assess. Students complete reading aloud, situational Q&A or topic presentation tasks aligned to the curriculum standard. The engine analyses each sentence using natural language processing and multi-dimensional speech analysis. It does not merely flag a mistake — it locates it: which syllable carries the stress, where a linking should have occurred, where a falling tone was needed but a rise was produced.
+Diagnose. Results are aggregated into a capability radar chart and an individual report. Students see "my weakness is linking and intonation" instead of an isolated number. Teachers see the distribution of class-level problems — which sound category, which task type, which class needs the most feedback.
+Recommend. Targeted practice is pushed automatically: unstable stress gets stress drills, broken linking gets linking drills, flat intonation gets model-sentence shadowing. Practice is followed by another assessment, forming an assess–diagnose–recommend–re-assess loop rather than a one-off test.
+The loop covers classroom practice, after-class training and lab-based mock exams with one scoring standard, so classroom data and exam results are directly comparable. For teachers, the point is not another scoring tool — it is evidence they can teach from.
+
+URL: https://www.up366.com/en/services/speaking-assessment
+
+### AI Writing Assessment
+
+Powered by the in-house model, it annotates grammar, vocabulary and spelling issues while evaluating logic and structure, aggregates class-level patterns, and gives each student actionable revision advice.
+
+Marking essays is the heaviest repetitive work in English teaching. Fifty books, two or three hours, and when it is done the feedback is hard to deliver — the problems are scattered, so a teacher reads out a few examples and moves on.
+Tianxuewang separates marking from teaching. Marking goes to the model: grammar, collocation and spelling are annotated sentence by sentence, and the essay is also evaluated for logical progression and paragraph structure — whether claims are supported, whether paragraphs connect. Teaching stays with the teacher: the system aggregates the class into a single view, so the dominant error type and the weakest stage are immediately visible.
+The efficiency difference is an order of magnitude. A class that used to take hours is marked in five to ten minutes. The time saved goes into designing feedback and one-to-one support — which is where workload reduction actually becomes teaching improvement.
+For students, marking is not just a score. Every annotation maps to a revision suggestion, so the next draft has a clear target. Teachers can project a typical problem and revise one paragraph live, which works better than reading out a model essay.
+Results connect to the teaching platform: errors and weaknesses enter the student's practice record and inform the next homework set and targeted drills, so marking does not end up archived and unused.
+
+URL: https://www.up366.com/en/services/writing-assessment
+
+### English Teaching Platform
+
+A single workspace for teachers: vocabulary lists, grammar micro-lessons, reading materials and synced practice, with learning data updating as the class progresses to support differentiated teaching.
+
+The problem a teaching platform should solve is not a shortage of resources but their dispersion. Lesson preparation usually means switching between textbook, slides, question bank and audio files, and the preparation time is fragmented in the process.
+Tianxuewang's teaching platform gathers the everyday materials into one workspace: vocabulary lists synced to the textbook, grammar micro-lessons, reading passages and matching practice, organised by unit and difficulty. Teachers can use them as they are, or adjust difficulty and volume for a specific class.
+Homework runs through assignment, submission, marking and feedback in one flow. Students work on phone or tablet; teachers see completion rate, accuracy and typical errors, and marking results feed back into learning data without manual tallying.
+The analytics dashboard is where the platform earns its place. At class level it shows shared weaknesses; at individual level it shows the trajectory of each capability. A teacher can split a class into two or three ability groups and assign different tasks — differentiated teaching becomes an option in the homework dialog rather than a slogan.
+For the teaching group, the platform is also a container: school-made study guides, topic drills and feedback slides stay on the platform, so a new teacher does not start from zero.
+
+URL: https://www.up366.com/en/services/teaching-platform
+
+### Listening, Vocabulary & Dictation
+
+From graded listening and full-screen walkthroughs to dictation practice and error-paper rebuilding, plus dictation marking and a class error-word book — one chain covering comprehension, spelling and retention.
+
+Listening and vocabulary are the two areas where results are hardest to see: students listen and memorise, but where they went wrong and whether it stuck is rarely clear. This product line connects the three stages.
+Comprehension. Graded listening is synced to the coursebook, and teachers can adjust playback speed to match the class — useful as exam listening speeds up. The full-screen walkthrough helps locate high-frequency errors, search for similar items in one click, and play short audio segments repeatedly, so explaining a question no longer means dragging a progress bar.
+Dictation. Teachers edit the transcript online and blank any word to build a dictation task, then export and print it. Students answer on a phone; the system marks instantly and produces a complete report showing accuracy and the distribution of misspelled words.
+Vocabulary. Word lists are synced to the textbook, with definitions, example sentences, roots and affixes, and pronunciation-pattern training. Dictation uses the Tianxuewang dictation sheet: the teacher scans or photographs by class and marks a full class in two to three minutes, with an automatic report summarising high-frequency errors by grade and class.
+The final step is re-exposure: high-frequency errors enter the class error-word book, where the paper-building tool puts them back into contextual item types for a second round, and error papers can be rebuilt for assignment or printing. Listening, spelling and retention close the loop — which is the only way to compete with the forgetting curve.
+
+URL: https://www.up366.com/en/services/listening-vocabulary
+
+## Case Studies
+
+### Chengdu No.7 High School · AI marking and data-driven teaching
+
+Chengdu No.7 High School's "AI marking, data-driven" practice was published on China's National Smart Education Platform — a public reference case where marking efficiency and feedback quality improved together.
+
+Context. Writing instruction in senior high school has long been constrained by marking cost: fifty essays per class, hours of book-by-book marking, and by the end there is only time left for a score and a read-through of a few model essays. Students receive a number but not a target for the next draft.
+Approach. Chengdu No.7 embedded Tianxuewang's AI writing assessment into its existing writing workflow without adding class hours. Students write and submit as usual; the model annotates grammar, vocabulary and spelling, and evaluates logical progression and paragraph structure; the teacher view aggregates class-level problems, so feedback sessions project a typical paragraph and revise it live.
+Outcome. Time spent on marking dropped markedly — teachers report a class can be marked in five to ten minutes. The more important change was in feedback: teachers moved from showing good essays to explaining why errors happen, and students received actionable revision advice instead of a score.
+Public record. The "AI marking, data-driven" practice is published on China's National Smart Education Platform, where it can be found publicly. This is the primary external reference for the case.
+Note: this page is compiled from public reporting and Tianxuewang's published materials. It is not a promise of results for other schools; context, staffing and timetabling differ and implementation must be adapted.
+
+URL: https://www.up366.com/en/cases/chengdu-no7-ai-grading
+
+### Beijing No.80 High School · speaking training in class
+
+Beijing No.80 High School's use of Tianxuewang's speaking training system was covered by CCTV: data analysis supports precise teaching, reduces workload and gives teachers professional evidence.
+
+Context. Once speaking entered exam assessment, schools faced a structural tension: practice time is limited, while pronunciation problems differ across dozens of students, and no teacher can listen to and correct each one.
+Approach. Beijing No.80 brought Tianxuewang's speaking training system into everyday lessons: ten minutes of reading aloud or situational Q&A in class, with instant assessment results; the teacher view aggregates results so feedback addresses the two most common problems first. After class, students continue with pushed targeted practice, and the next lesson re-tests against the same standard.
+Outcome. Planning shifted from experience to data: teachers know whether limited class time should go to linking or intonation, and students know which sound is their problem. The school reports that the approach reduces workload and improves effectiveness at the same time — less wasted repetition for teachers, less wasted practice for students.
+Public record. The practice was covered by China Central Television and is Tianxuewang's public reference for speaking products in a leading school's classroom.
+Note: compiled from public reporting. Timetabling and student baselines differ widely between schools; frequency and feedback design must be adapted locally.
+
+URL: https://www.up366.com/en/cases/beijing-no80-speaking
+
+### A Hefei middle school · personalised practice and speaking assessment
+
+After introducing personalised practice and speaking assessment, average English scores rose by 8 points, the distinction rate moved from 20% to 30%, and classroom participation increased noticeably.
+
+Context. This middle school faced the classic two-ends problem: students with weak foundations could not keep up, while stronger students were under-challenged. One worksheet for the whole class satisfied neither end.
+Approach. The school introduced Tianxuewang's teaching platform and used learning data to group students by ability: the foundation group worked on vocabulary and sentence patterns, the extension group on reading and writing. Homework was assigned by group and marked automatically. For speaking, students used the assessment system to repeat the same passage, receiving specific feedback on sounds and intonation each time.
+Outcome. After one semester the class average rose by 8 points and the distinction rate moved from 20% to 30%. Teachers reported the clearest change in participation: students knew what to practise, and practice stopped being a passive task.
+What is reusable. What this school validated is not a feature but a path: group by data, assign by group, then adjust groups using marking results. Any school can start that path with one or two classes.
+Note: figures come from school-practice records in Tianxuewang's published materials. Differences between students and schools are real; this page is not a promise of results elsewhere.
+
+URL: https://www.up366.com/en/cases/hefei-middle-school-personalised
+
+### Regional joint exam · automated marking and quality analysis
+
+A large regional joint exam used Tianxuewang's automated marking and analysis system to process a high volume of papers, shorten the turnaround and give teaching research groups data at both regional and class level.
+
+Context. The hard part of a regional joint exam is not setting the paper but the aftermath: thousands of scripts to mark, record, aggregate and analyse within days. If any step stalls, teaching feedback arrives two weeks late and the diagnostic value of the exam collapses.
+Approach. The exam used Tianxuewang's automated marking and analysis system. Objective items were scored automatically; constructed-response items were marked against the rubric with teacher review. Results were aggregated into regional, school and class views covering score distribution, item difficulty and discrimination, and typical error types.
+Outcome. The marking and aggregation cycle shortened markedly, so results returned to teachers sooner. Teaching research groups received not just rankings but an actionable conclusion — which item types were weak across the whole region — which translates directly into the next teaching priority.
+Conditions. Regional exams place high demands on scan quality, rubrics and review. Answer-sheet conventions must be unified in advance and teacher review retained: the machine handles throughput, the teacher handles judgement.
+Note: compiled from Tianxuewang's published product materials. The specific region and schools are not disclosed.
+
+URL: https://www.up366.com/en/cases/regional-joint-exam-marking
+
+### A county high school · dictation marking and the class error-word book
+
+It started with one dictation sheet: a class marked in two to three minutes, high-frequency errors collected into a class error-word book, then reinserted into contextual items for a second pass.
+
+Context. Vocabulary is where county high schools most often get high input and slow returns. Teachers dictate daily, but marking is manual and tallies are mental: fifty dictation sheets consume a lesson, and the distribution of errors lives only in the teacher's head, never becoming reusable evidence.
+Approach. The school used Tianxuewang dictation sheets for routine dictation. The teacher scanned or photographed them by class, and the system marked a full class in two to three minutes, producing an automatic report of high-frequency errors by grade and class.
+The critical step is re-exposure. High-frequency errors enter the class error-word book, and the paper-building tool puts them back into contextual item types for a second round instead of asking students to copy each word ten times. Error papers can be rebuilt for re-testing a week later.
+Outcome. Teachers were released from marking dictation and spent the time designing contextual practice. Student errors were recorded, re-exposed and re-tested — vocabulary teaching gained a trackable loop for the first time.
+Note: compiled from public product materials for Tianxuewang's dictation marking. The school name is withheld as requested.
+
+URL: https://www.up366.com/en/cases/county-high-vocabulary-loop
+
+### A middle school · personalised practice lifts middle-tier students by 15–20 points
+
+Practice matched to error types, reading preferences and writing weaknesses reduced redundant drilling. Students previously in the lower-middle band improved by 15–20 points.
+
+Context. Lower-middle-band students fall most easily into the drilling trap: they do a lot of questions, but always the ones they already know or cannot yet reach, skipping the band that would actually stretch them.
+Approach. The school used the personalised practice功能 in Tianxuewang's teaching platform. Combining knowledge-graph relations with learning behaviour data — error types, reading preferences, writing weaknesses — the platform matched resources for three stages: preview, learning and revision, including vocabulary lists, grammar micro-lessons, reading passages and practice sets. Difficulty was held just above current level: an error triggered similar items, a correct answer advanced the level.
+Outcome. Redundant practice fell and time went to real weak points. Students previously in the lower-middle band improved by 15–20 points after a period of targeted work. Teachers reported faster responses to classroom questions — because students had actually done those items.
+Boundary. Personalised recommendation is not self-study. It requires a teacher to set goals, check execution and give feedback at key points. The platform matches and records; the teacher sets direction and judges.
+Note: figures come from school-practice records in Tianxuewang's published materials; the school name is withheld as requested. Individual differences are real and this page is not a promise of results.
+
+URL: https://www.up366.com/en/cases/personalised-push-15-points
+
+## Articles
+
+### Tianxuewang wins first prize at the China Internet Innovation Competition, digital education track
+
+Published: 2026-09-18
+
+The 2026 China Internet Innovation Competition results have been announced. Tianxuewang's (up366.com) AI English essay marking project received first prize in the digital education track.
+What the judges examined was not whether a large model was involved. In the pitch, the team demonstrated a complete chain: a student submits an essay; the model annotates grammar, vocabulary and spelling issues while evaluating logical progression and paragraph structure; the teacher view aggregates class-level problems, and the feedback session projects a typical paragraph for live revision. From submission to teachable feedback, the cost for a full class drops to five to ten minutes.
+That addresses a long-standing contradiction in writing instruction: marking consumes time, yet feedback lacks evidence. A teacher finishes fifty essays with only enough time left for a score, and the student receives a number without a target for the next draft. Separating marking from teaching is the main difference between this project and ordinary essay-scoring tools.
+Technically the project is built on Tianxuewang's in-house Tianxue large language model, combining natural language processing, machine learning and large-scale data analysis to cover speaking assessment, word and sentence correction, essay marking and automated exam marking. Earlier, the school's "AI marking, data-driven" practice at Chengdu No.7 High School was published on China's National Smart Education Platform, giving the product line a public classroom reference.
+The company said the award would not change its pace: the next step remains validation in real classrooms, with a focus on making marking results flow more smoothly into feedback design and personalised homework.
+
+URL: https://www.up366.com/en/news/internet-innovation-award-2026
+
+### Tianxuewang admitted as a member of China's national AI standardisation subcommittee
+
+Published: 2026-07-08
+
+Beijing Tianxuewang Education Technology Co., Ltd. (Tianxuewang) has been admitted as an organisational member of the Subcommittee on Artificial Intelligence of China's National Technical Committee 260 on Information Technology Standardisation.
+The subcommittee is responsible for developing and revising national standards in artificial intelligence, covering foundational commonality, key technologies, products and industry applications. Membership allows a company to take part in drafting, technical discussion and public consultation — not merely to comply with standards written elsewhere.
+For education technology companies, the value of standardisation is often underestimated. Take speaking assessment: how scoring criteria are defined, how robustness in noisy environments is tested, how results are explained to teachers. If the answers exist only inside individual products, schools cannot compare results and cannot use assessment data for teaching research. Participating in standards work turns these invisible conventions into a shared public language.
+Tianxuewang has worked in AI-enabled education for more than two decades. Its products cover speaking assessment, AI writing marking, listening and vocabulary training, and a teaching platform, serving 15,000 public schools across China. The company has filed both its student and teacher apps under the Ministry of Education mobile application scheme, holds ICP filing and Level 3 cybersecurity classified protection, and has filed its personalised-recommendation algorithm with the Cyberspace Administration of China.
+The company said it will bring classroom-level experience in assessment and marking into standards discussions, with emphasis on assessment consistency, data security and explainability of results in educational settings.
+
+URL: https://www.up366.com/en/news/national-ai-standardisation-committee
+
+### Chairman Wang Fu'an elected to the AI Committee of the All-China Federation of Industry and Commerce
+
+Published: 2026-05-20
+
+In 2026, drawing on more than two decades of technical accumulation and practical innovation in AI-enabled English teaching, Tianxuewang chairman Wang Fu'an was elected to the AI Committee of the All-China Federation of Industry and Commerce.
+The committee is a major body through which the federation promotes the development of China's AI industry, and serves as an authoritative platform for government–industry communication and cross-sector collaboration. It brings together leading entrepreneurs, technical experts and representatives of major companies to work on industry research, core technology innovation, industrial upgrading and industry–academia integration.
+Since founding Tianxuewang, Wang has held to a simple principle: technology should serve teaching, and craft should support it. Under his leadership the company has built a complete, intelligent loop for English teaching grounded in real classrooms and real pain points, serving tens of millions of teachers and students. It now has branch offices in Hefei, Haikou, Shenzhen, Kunming, Hangzhou and Chengdu, forming a nationwide service network.
+What makes education unusual is that technical effectiveness must be verified by the classroom. That logic underpins the product line: rather than wrapping a general model in an industry label, Tianxuewang builds assessment, marking and recommendation into tools teachers can use directly — speaking assessment down to word stress, linking and intonation; essay marking reaching into logic and structure — and always returns to the question of how the next lesson will be taught.
+On his new role, Wang said he will take an active part in building the industry's AI ecosystem and in technical discussion, sharing experience from education digitalisation and helping to deepen the integration of AI and education.
+
+URL: https://www.up366.com/en/news/wang-fuan-ai-committee
+
+### Chengdu No.7's "AI marking, data-driven" practice published on the National Smart Education Platform
+
+Published: 2026-03-12
+
+Chengdu No.7 High School's "AI marking, data-driven" teaching practice has been published on China's National Smart Education Platform. The practice is built on Tianxuewang's AI English writing assessment and shows how data enters everyday writing instruction.
+The workflow is not complicated: students write and submit on the platform; the model annotates grammar, vocabulary and spelling while evaluating logical progression and paragraph structure; the teacher view aggregates class-level problems; feedback sessions project a typical paragraph for live revision; revised essays re-enter marking, forming a write–mark–teach–revise cycle.
+What actually changes is how a teacher's time is allocated. Marking fifty essays used to take hours, and feedback meant reading out a few model essays. With AI marking, a class is marked in five to ten minutes, and the time saved goes into designing feedback, analysing error causes and one-to-one support.
+For the national platform, the value of such cases is replicability. This is not the product of resources available to one school only, but a path any school can start: use it in one grade, compare pre- and post-assessment data, then let the teaching group set feedback priorities from the reports.
+Tianxuewang said that after publication the company received visits and pilot enquiries from a number of schools, and the product team restructured the marking report so teachers see "what to teach" sooner.
+
+URL: https://www.up366.com/en/news/chengdu-no7-national-platform
+
+### Three common misunderstandings about AI essay marking
+
+Published: 2026-02-10
+
+AI marking has been part of English writing instruction for several years, yet discussion still centres on three questions.
+Misunderstanding one: machine scores are unreliable, so it is useless. If the score is all you look at, the criticism holds. But the value lies in diagnosis, not the number. The system flags "paragraph three lacks a transition" or "this collocation is wrong" — information a teacher can verify, teach from, or reject. Treating AI marking as a scoring machine uses its weakest capability.
+Misunderstanding two: too much annotation, so students ignore it. That is true — give thirty annotations at once and a student reads only the total score. The effective approach is layered presentation: three key revision suggestions on the first screen, with the rest available in detail. That is exactly what Teacher Edition 6.0 does: nothing removed, order changed.
+Misunderstanding three: teachers will be replaced. Marking replaces the repetitive work of paging through books and flagging errors; it does not replace teaching. How a lesson is run, which paragraph to discuss, what students revise afterwards — these still depend on a teacher's judgement about the class. Marking instead frees teachers from clerical labour so they have time to design feedback.
+Behind all three is the same assumption: treating AI as an automated teacher. A more accurate view is a verifiable teaching assistant — it supplies evidence, the teacher judges; it handles repetition, the teacher designs.
+
+URL: https://www.up366.com/en/news/three-misunderstandings-about-ai-writing-marking
+
+### Practising speaking under the new curriculum: turning feeling into evidence
+
+Published: 2026-01-15
+
+China's new English curriculum standard sets more specific expectations for speaking and listening: not only saying something, but saying it clearly and appropriately. In the classroom the problem is practical — with dozens of students, who has which problem, and how do you see it within one lesson?
+We suggest breaking speaking practice into three operational moves.
+First, fix the task types. Reading aloud, situational Q&A and topic presentation test different abilities: pronunciation and intonation, information retrieval and response, organisation and coherence. Choose one or two per session rather than a little of everything, which measures nothing well.
+Second, fix the scoring standard. The same standard must run through classroom practice, homework and mock exams, or the data cannot be compared. If the classroom uses one standard and the exam another, progress cannot be verified and practice degenerates into reading it again.
+Third, fix the re-test rhythm. Practice must be followed by another assessment, or the diagnosis never closes. Tianxuewang's loop is assess–diagnose–recommend–re-assess: identify the problem, generate a radar chart and report, assign targeted practice, then re-test the same task type and look at the change.
+None of these requires expensive equipment; they require instructional design. The role of technology is to turn feeling into evidence: a teacher no longer says "this class has weak intonation" from impression but sees the class distribution on the intonation dimension; a student no longer says "I read fine" but knows which linking to work on.
+
+URL: https://www.up366.com/en/news/how-to-practise-speaking-under-new-curriculum
+
+### Tianxuewang's marking and recommendation algorithm filed with China's cyberspace regulator
+
+Published: 2025-12-05
+
+In 2025, Tianxuewang completed filing of its marking and personalised-recommendation algorithm under the Cyberspace Administration of China's internet information service algorithm regime. It follows Ministry of Education mobile application filing for both student and teacher apps, and Level 3 cybersecurity classified protection.
+"Algorithm filing" sounds abstract, but the practical effect is concrete. Personalised recommendation decides what a student does next: which item, which similar question after an error, how weak knowledge points are ordered. If that logic is opaque and untraceable, schools and parents cannot judge whether a recommendation is sound.
+Tianxuewang grounds recommendations in explainable dimensions: error types, mastery of knowledge points, reading preferences and writing weaknesses. Results enter the student's practice record, so a teacher can see in the learning report why an item was recommended — and can override it.
+Beyond compliance, this addresses a common misunderstanding: personalised recommendation is not "letting students drill on their own". In a real classroom the platform matches and records, while the teacher sets goals, checks execution and gives feedback at key points. All three are required.
+Tianxuewang now has a compliance framework spanning filing, classified protection, algorithms and content safety, with teacher review and manual intervention retained in the product. For an education product, that is not a bonus — it is the entry ticket.
+
+URL: https://www.up366.com/en/news/algorithm-filing-2025
+
+### 15,000 public schools in 2025: a year in service scale
+
+Published: 2025-10-28
+
+By 2025, Tianxuewang had reached 15,000 public schools across China, including leading schools such as Tsinghua High School, Beijing No.4 High School and Chengdu No.7 High School.
+Scaling an education product has a specific constraint: it cannot rely on online acquisition alone. Whether a school keeps using a product depends on whether teaching support keeps pace, whether the data can be explained, and whether someone responds the same day when something breaks. Tianxuewang's branch offices in Hefei, Haikou, Shenzhen, Kunming, Hangzhou and Chengdu exist to meet that local demand.
+The network does three kinds of work: teacher training (how to use it, when to use it, how far to take it), data interpretation (how to read learning reports, how to set feedback priorities), and accumulating school-based resources (keeping a school's study guides and topic drills on the platform). All three happen on site, not in a product document.
+Scale also closes a feedback loop on the product side. Fifteen thousand schools means genuinely diverse conditions: different regions, levels and timetables. That diversity forces continuous adjustment in differentiated assignment, report structure and item coverage, instead of one template for every classroom.
+The company said its next phase will not treat "more schools" as the only metric. It will look more at depth per school — how often teachers actually use it each week, and what proportion of marking results reach feedback. Those numbers say more about real adoption than a school count.
+
+URL: https://www.up366.com/en/news/service-scale-2025
+
+### After marking a class in five to ten minutes, where does the teacher's time go?
+
+Published: 2025-09-10
+
+Every Teachers' Day, the discussion about teacher workload returns to the same numbers: how many exercise books, essays and dictation sheets an English teacher marks each week. Since AI marking arrived, those numbers have genuinely fallen — a class set of essays from hours to five to ten minutes.
+But we observe two very different outcomes in schools.
+In the first, the time saved is reinvested in teaching: the teacher uses the marking report to locate class-level patterns, designs a fifteen-minute feedback session, projects a typical paragraph and revises it live, then spends the rest of the time with three or five students individually. Marking results become input for teaching decisions.
+In the second, the time saved is filled with new repetitive work: one more practice set, one more round of papers, one more form. The efficiency tool changed speed but not structure, and the sense of workload did not fall.
+The difference is not the tool but the way it is used. In teacher training we emphasise one move: read the aggregated view before deciding what to teach. Skip that step and marking becomes faster scoring, while the diagnostic information in the report is wasted.
+This is especially true in writing. What students need is not a score but a target for the next draft. One actionable revision suggestion is worth ten remarks about "unnatural language". That is why we restructured the marking report around revision advice rather than point deductions.
+
+URL: https://www.up366.com/en/news/teachers-day-marking-efficiency
+
+### CCTV covers a speaking class at Beijing No.80 High School
+
+Published: 2025-06-15
+
+Beijing No.80 High School's use of Tianxuewang's speaking training system was covered by China Central Television, in a programme that showed an ordinary English speaking lesson.
+In the first ten minutes, students completed a round of reading aloud and situational Q&A on their devices. After submission, results aggregated instantly on the teacher's screen: the class lost most points on linking, then on sentence-final intonation. The teacher adjusted the planned lesson — compressing three language points into one and making time for shadowing and pronunciation correction on linking.
+That detail explains more than any technical specification. Teachers used to plan speaking practice on experience and instinct; now class data tells them before the lesson where this cohort's problems concentrate. Emphasis shifts from spreading effort evenly to concentrating on the bottleneck.
+The report also noted that practice did not take over teaching time. Ten minutes in class, targeted practice after class, and a re-test next lesson against the same standard — assessment, diagnosis, recommendation and re-assessment form a loop rather than a one-off activity.
+Tianxuewang noted that the lesson was the result of routine use, not a demonstration staged for filming. It also illustrates a design principle: only tools that fit inside forty minutes and that teachers can operate themselves have a chance of entering everyday teaching.
+
+URL: https://www.up366.com/en/news/cctv-beijing-no80-speaking
+
+### 4.88 billion speaking assessments: the engineering behind the scale
+
+Published: 2025-04-22
+
+Tianxuewang's speaking assessment engine has passed 4.88 billion cumulative calls. The figure is usually read as a scale metric; for a product team it is closer to a stress-test report.
+Beyond the billion-call mark, the hard problems are no longer "can it score" but three others.
+Consistency. The same passage from the same student, submitted on a different device, network or day, should receive a stable score. Microphones, ambient noise and recording gain all affect acoustic features; if those factors enter the score, assessment loses its diagnostic value.
+Granularity. "Pronunciation is not standard" is useless feedback. The engine must locate the problem: which syllable carries the stress, where a linking was expected but broken, where a final fall was replaced by a rise — and provide a model to imitate. Granularity determines whether a teacher can act on it.
+Explainability. A student sees a score; a teacher should see a capability radar chart and a class distribution. Results must be explainable, discussable and convertible into practice, not a closed-box output.
+4.88 billion calls also represent a data asset: the distribution of pronunciation problems across regions, year groups and task types. That distribution in turn supports the targeted practice library — once the system knows a linking error is frequent in a given stage, recommendation stops being random matching.
+
+URL: https://www.up366.com/en/news/speaking-engine-4-8-billion
+
+### Tianxuewang named 2024 AI Influential Education Brand by Tencent News
+
+Published: 2024-11-30
+
+In 2024 Tianxuewang was named AI Influential Education Brand of the Year by Tencent News — following CCTV.com's 2020 AI education brand award and Tencent News' 2019 foreign-language education brand award.
+2024 was also a dense year for product work: completion of the Tianxue large language model, a full upgrade to Teacher Edition 6.0, and the launch of the AI Magic English Camp, open to franchise partners nationwide.
+The three developments share one thread. The model is the foundation, setting the ceiling for assessment and marking. Teacher Edition 6.0 is the entry point, determining whether a teacher can move smoothly through planning, assignment, marking and feedback within a lesson. The camp extends the scenario, carrying AI English teaching capability built in schools into out-of-school learning.
+Awards do not change classrooms. Their value is an external perspective: when many education products talk about AI, judges look at whether specific teaching problems are solved. What was recognised here is the granularity of speaking assessment, the usability of marking, and the fact that both are actually deployed in leading schools.
+The company said the award belongs to the past year; the product still has to meet a plain standard — whether a teacher wants to use it again next lesson.
+
+URL: https://www.up366.com/en/news/tencent-ai-education-brand-2024
+
+### Tianxue model completed, Teacher Edition 6.0 released
+
+Published: 2024-08-16
+
+In 2024 Tianxuewang completed development of the Tianxue large language model. Unlike a general-purpose model, its training objective is narrow and concrete: to make assessment, marking, diagnosis and recommendation accurate for English teaching.
+That shows up in three directions. For speech, the model must handle accent, noise and tempo variation in student recordings and produce diagnoses that locate syllables and intonation. For text, it must go beyond grammar and vocabulary errors to judge whether an argument holds and whether paragraphs connect. For recommendation, it must combine knowledge-graph relations with learning behaviour data to decide what item comes next.
+Released alongside the model was Teacher Edition 6.0. The point of the upgrade was not more features but fewer jumps: planning, assignment, marking and feedback were consolidated into one workflow, so teachers no longer switch between modules. Marking results surface directly as "class-level patterns" and "typical paragraphs", and one click opens the feedback view.
+The product team mentioned a detail at launch: early marking reports were comprehensive, and teachers did not finish reading them. Version 6.0 changed the first screen to three things — the most concentrated errors this time, the paragraph worth teaching, and targeted practice that can be assigned immediately. Nothing was removed; the order changed.
+The model and Teacher Edition 6.0 became the base for later products: writing marking, speaking practice, listening and vocabulary, and the teaching platform share one set of model capabilities and one teacher workflow — the concrete form of "model plus agent" among the company's three pillars.
+
+URL: https://www.up366.com/en/news/tianxue-llm-teacher-6-launch
+
+### Tianxuewang solution selected for the 2023 digital campus catalogue by China's national edtech centre
+
+Published: 2023-12-20
+
+Tianxuewang's full-scenario digital teaching solution was selected for the 2023 Digital Campus Comprehensive Solutions catalogue published by the Ministry of Education's Educational Technology and Resource Development Centre (National Centre for Educational Technology), and passed physical testing with a certificate valid through 2026.
+"Full scenario" has a specific meaning here: everyday classroom teaching, after-class practice, regional joint exams and lab-based mock exams. The four place different demands on a product — the classroom needs speed, homework needs lightness, joint exams need stability, mock exams need fidelity. The solution places them under one account system and one data standard, so schools do not buy a separate system for each.
+Physical testing is one of the catalogue's thresholds. Educational equipment entering schools is judged not only on a feature demo but on stability, safety and compatibility in real classrooms. Passing means the solution can be delivered in a standardised way rather than customised per project.
+For schools, the practical value of a catalogue listing is that procurement and acceptance have a reference: capability boundaries, deliverables and test conclusions are public, reducing the risk of buying something that does not work without being able to say why.
+The company said the solution will be updated annually, with emphasis on new curriculum-standard task types and regional exam scenarios.
+
+URL: https://www.up366.com/en/news/digital-campus-solution-2023
+
+### From listening books to a gold award: the print foundation beneath the platform
+
+Published: 2023-06-18
+
+In 2023 Tianxue English books received a gold award for high-efficiency study aids. Earlier, the smart edition of Bolan English Listening won a gold award in the topic-specific category of the 2018–2019 study-aid brand rankings.
+This history is often overlooked, yet it explains a defining feature of the products: the content did not emerge from an algorithm, it accumulated over years of educational publishing. How to select listening material, how to grade speed, how to design items, where to place blanks — those judgements were refined in the print era.
+Digitalisation gave that content new uses. In listening, for example: book content syncs with graded listening, and teachers can adjust playback speed for a class; the full-screen walkthrough cuts audio into short segments tied to high-frequency errors; the dictation builder lets teachers edit the transcript, blank any word and export for printing. The same content serves different stages in print and digital form.
+This also means the product logic is not "replace paper with technology" but "make paper content computable". Students answer on a dictation sheet, the teacher photographs it, and the system marks a class in two to three minutes — paper is not abandoned; marking and tallying are automated.
+For schools, that continuity matters: the material system a teaching group already knows is not disrupted, and teachers do not have to replace all their content in order to use new technology.
+
+URL: https://www.up366.com/en/news/english-book-gold-award-2023
+

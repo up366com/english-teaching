@@ -1,0 +1,759 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://www.up366.com/</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/en</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/about</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/about"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/about"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/about"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/en/about</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/about"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/about"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/about"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/brand</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/brand"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/brand"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/brand"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/en/brand</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/brand"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/brand"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/brand"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/trust</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/trust"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/trust"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/trust"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/en/trust</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/trust"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/trust"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/trust"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/team</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/team"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/team"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/team"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/en/team</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/team"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/team"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/team"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/services</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/services"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/services"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/services"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/en/services</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/services"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/services"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/services"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/cases</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/cases"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/cases"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/cases"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/en/cases</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/cases"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/cases"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/cases"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/news</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/news"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/news"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/news"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/en/news</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/news"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/news"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/news"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/careers</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/careers"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/careers"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/careers"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/en/careers</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/careers"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/careers"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/careers"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/contact</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/contact"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/contact"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/contact"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/en/contact</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/contact"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/contact"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/contact"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/services-overview</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/services-overview"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/services-overview"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/services-overview"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/en/services-overview</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/services-overview"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/services-overview"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/services-overview"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/privacy</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/privacy"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/privacy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/privacy"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/en/privacy</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/privacy"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/privacy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/privacy"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/terms</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/terms"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/terms"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/terms"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/en/terms</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/terms"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/terms"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/terms"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/services/speaking-assessment</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/services/speaking-assessment"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/services/speaking-assessment"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/services/speaking-assessment"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/en/services/speaking-assessment</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/services/speaking-assessment"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/services/speaking-assessment"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/services/speaking-assessment"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/services/writing-assessment</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/services/writing-assessment"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/services/writing-assessment"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/services/writing-assessment"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/en/services/writing-assessment</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/services/writing-assessment"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/services/writing-assessment"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/services/writing-assessment"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/services/teaching-platform</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/services/teaching-platform"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/services/teaching-platform"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/services/teaching-platform"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/en/services/teaching-platform</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/services/teaching-platform"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/services/teaching-platform"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/services/teaching-platform"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/services/listening-vocabulary</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/services/listening-vocabulary"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/services/listening-vocabulary"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/services/listening-vocabulary"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/en/services/listening-vocabulary</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/services/listening-vocabulary"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/services/listening-vocabulary"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/services/listening-vocabulary"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/cases/chengdu-no7-ai-grading</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/cases/chengdu-no7-ai-grading"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/cases/chengdu-no7-ai-grading"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/cases/chengdu-no7-ai-grading"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/en/cases/chengdu-no7-ai-grading</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/cases/chengdu-no7-ai-grading"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/cases/chengdu-no7-ai-grading"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/cases/chengdu-no7-ai-grading"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/cases/beijing-no80-speaking</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/cases/beijing-no80-speaking"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/cases/beijing-no80-speaking"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/cases/beijing-no80-speaking"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/en/cases/beijing-no80-speaking</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/cases/beijing-no80-speaking"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/cases/beijing-no80-speaking"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/cases/beijing-no80-speaking"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/cases/hefei-middle-school-personalised</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/cases/hefei-middle-school-personalised"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/cases/hefei-middle-school-personalised"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/cases/hefei-middle-school-personalised"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/en/cases/hefei-middle-school-personalised</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/cases/hefei-middle-school-personalised"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/cases/hefei-middle-school-personalised"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/cases/hefei-middle-school-personalised"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/cases/regional-joint-exam-marking</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/cases/regional-joint-exam-marking"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/cases/regional-joint-exam-marking"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/cases/regional-joint-exam-marking"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/en/cases/regional-joint-exam-marking</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/cases/regional-joint-exam-marking"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/cases/regional-joint-exam-marking"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/cases/regional-joint-exam-marking"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/cases/county-high-vocabulary-loop</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/cases/county-high-vocabulary-loop"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/cases/county-high-vocabulary-loop"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/cases/county-high-vocabulary-loop"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/en/cases/county-high-vocabulary-loop</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/cases/county-high-vocabulary-loop"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/cases/county-high-vocabulary-loop"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/cases/county-high-vocabulary-loop"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/cases/personalised-push-15-points</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/cases/personalised-push-15-points"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/cases/personalised-push-15-points"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/cases/personalised-push-15-points"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/en/cases/personalised-push-15-points</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/cases/personalised-push-15-points"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/cases/personalised-push-15-points"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/cases/personalised-push-15-points"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/news/internet-innovation-award-2026</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/news/internet-innovation-award-2026"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/news/internet-innovation-award-2026"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/news/internet-innovation-award-2026"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/en/news/internet-innovation-award-2026</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/news/internet-innovation-award-2026"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/news/internet-innovation-award-2026"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/news/internet-innovation-award-2026"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/news/national-ai-standardisation-committee</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/news/national-ai-standardisation-committee"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/news/national-ai-standardisation-committee"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/news/national-ai-standardisation-committee"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/en/news/national-ai-standardisation-committee</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/news/national-ai-standardisation-committee"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/news/national-ai-standardisation-committee"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/news/national-ai-standardisation-committee"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/news/wang-fuan-ai-committee</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/news/wang-fuan-ai-committee"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/news/wang-fuan-ai-committee"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/news/wang-fuan-ai-committee"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/en/news/wang-fuan-ai-committee</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/news/wang-fuan-ai-committee"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/news/wang-fuan-ai-committee"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/news/wang-fuan-ai-committee"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/news/chengdu-no7-national-platform</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/news/chengdu-no7-national-platform"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/news/chengdu-no7-national-platform"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/news/chengdu-no7-national-platform"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/en/news/chengdu-no7-national-platform</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/news/chengdu-no7-national-platform"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/news/chengdu-no7-national-platform"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/news/chengdu-no7-national-platform"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/news/three-misunderstandings-about-ai-writing-marking</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/news/three-misunderstandings-about-ai-writing-marking"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/news/three-misunderstandings-about-ai-writing-marking"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/news/three-misunderstandings-about-ai-writing-marking"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/en/news/three-misunderstandings-about-ai-writing-marking</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/news/three-misunderstandings-about-ai-writing-marking"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/news/three-misunderstandings-about-ai-writing-marking"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/news/three-misunderstandings-about-ai-writing-marking"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/news/how-to-practise-speaking-under-new-curriculum</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/news/how-to-practise-speaking-under-new-curriculum"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/news/how-to-practise-speaking-under-new-curriculum"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/news/how-to-practise-speaking-under-new-curriculum"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/en/news/how-to-practise-speaking-under-new-curriculum</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/news/how-to-practise-speaking-under-new-curriculum"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/news/how-to-practise-speaking-under-new-curriculum"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/news/how-to-practise-speaking-under-new-curriculum"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/news/algorithm-filing-2025</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/news/algorithm-filing-2025"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/news/algorithm-filing-2025"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/news/algorithm-filing-2025"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/en/news/algorithm-filing-2025</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/news/algorithm-filing-2025"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/news/algorithm-filing-2025"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/news/algorithm-filing-2025"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/news/service-scale-2025</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/news/service-scale-2025"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/news/service-scale-2025"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/news/service-scale-2025"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/en/news/service-scale-2025</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/news/service-scale-2025"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/news/service-scale-2025"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/news/service-scale-2025"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/news/teachers-day-marking-efficiency</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/news/teachers-day-marking-efficiency"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/news/teachers-day-marking-efficiency"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/news/teachers-day-marking-efficiency"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/en/news/teachers-day-marking-efficiency</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/news/teachers-day-marking-efficiency"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/news/teachers-day-marking-efficiency"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/news/teachers-day-marking-efficiency"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/news/cctv-beijing-no80-speaking</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/news/cctv-beijing-no80-speaking"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/news/cctv-beijing-no80-speaking"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/news/cctv-beijing-no80-speaking"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/en/news/cctv-beijing-no80-speaking</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/news/cctv-beijing-no80-speaking"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/news/cctv-beijing-no80-speaking"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/news/cctv-beijing-no80-speaking"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/news/speaking-engine-4-8-billion</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/news/speaking-engine-4-8-billion"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/news/speaking-engine-4-8-billion"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/news/speaking-engine-4-8-billion"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/en/news/speaking-engine-4-8-billion</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/news/speaking-engine-4-8-billion"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/news/speaking-engine-4-8-billion"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/news/speaking-engine-4-8-billion"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/news/tencent-ai-education-brand-2024</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/news/tencent-ai-education-brand-2024"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/news/tencent-ai-education-brand-2024"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/news/tencent-ai-education-brand-2024"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/en/news/tencent-ai-education-brand-2024</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/news/tencent-ai-education-brand-2024"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/news/tencent-ai-education-brand-2024"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/news/tencent-ai-education-brand-2024"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/news/tianxue-llm-teacher-6-launch</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/news/tianxue-llm-teacher-6-launch"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/news/tianxue-llm-teacher-6-launch"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/news/tianxue-llm-teacher-6-launch"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/en/news/tianxue-llm-teacher-6-launch</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/news/tianxue-llm-teacher-6-launch"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/news/tianxue-llm-teacher-6-launch"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/news/tianxue-llm-teacher-6-launch"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/news/digital-campus-solution-2023</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/news/digital-campus-solution-2023"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/news/digital-campus-solution-2023"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/news/digital-campus-solution-2023"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/en/news/digital-campus-solution-2023</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/news/digital-campus-solution-2023"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/news/digital-campus-solution-2023"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/news/digital-campus-solution-2023"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/news/english-book-gold-award-2023</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/news/english-book-gold-award-2023"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/news/english-book-gold-award-2023"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/news/english-book-gold-award-2023"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/en/news/english-book-gold-award-2023</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/news/english-book-gold-award-2023"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/news/english-book-gold-award-2023"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/news/english-book-gold-award-2023"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/careers/speech-assessment-algorithm-engineer</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/careers/speech-assessment-algorithm-engineer"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/careers/speech-assessment-algorithm-engineer"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/careers/speech-assessment-algorithm-engineer"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/en/careers/speech-assessment-algorithm-engineer</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/careers/speech-assessment-algorithm-engineer"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/careers/speech-assessment-algorithm-engineer"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/careers/speech-assessment-algorithm-engineer"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/careers/english-curriculum-researcher</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/careers/english-curriculum-researcher"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/careers/english-curriculum-researcher"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/careers/english-curriculum-researcher"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/en/careers/english-curriculum-researcher</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/careers/english-curriculum-researcher"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/careers/english-curriculum-researcher"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/careers/english-curriculum-researcher"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/careers/school-success-manager</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/careers/school-success-manager"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/careers/school-success-manager"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/careers/school-success-manager"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/en/careers/school-success-manager</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/careers/school-success-manager"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/careers/school-success-manager"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/careers/school-success-manager"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/careers/fullstack-engineer</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/careers/fullstack-engineer"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/careers/fullstack-engineer"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/careers/fullstack-engineer"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.up366.com/en/careers/fullstack-engineer</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.up366.com/careers/fullstack-engineer"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.up366.com/en/careers/fullstack-engineer"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.up366.com/careers/fullstack-engineer"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>

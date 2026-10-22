@@ -1,0 +1,44 @@
+{
+  "name": "up366-english-teaching",
+  "version": "1.0.0",
+  "private": false,
+  "description": "天学网英语教学 APP · up366.com — AI-powered English teaching and assessment website with a built-in CMS (bilingual zh/en, Express + SQLite/MySQL, zero-build templates).",
+  "keywords": [
+    "english-teaching",
+    "ai-education",
+    "speaking-assessment",
+    "writing-assessment",
+    "cms",
+    "express",
+    "sqlite",
+    "bilingual",
+    "geo"
+  ],
+  "license": "MIT",
+  "main": "server.js",
+  "engines": {
+    "node": ">=22.5.0"
+  },
+  "scripts": {
+    "start": "node --no-warnings server.js",
+    "dev": "node --no-warnings --watch server.js",
+    "site:install": "node --no-warnings install/install.js",
+    "site:check": "node --no-warnings install/check.js",
+    "passwd": "node --no-warnings scripts/reset-password.js",
+    "static:export": "node --no-warnings scripts/export-static.js",
+    "migrate:mysql": "node --no-warnings scripts/migrate-sqlite-to-mysql.js",
+    "test": "node --no-warnings scripts/smoke.js",
+    "test:admin": "node --no-warnings scripts/test-admin.js",
+    "test:crud": "node --no-warnings scripts/test-crud.js",
+    "test:security": "node --no-warnings scripts/test-security.js",
+    "test:deploy": "node --no-warnings scripts/test-deploy.js",
+    "test:content": "node --no-warnings tests/content.test.js",
+    "test:migrate": "node --no-warnings scripts/migrate-sqlite-to-mysql.js --self-test"
+  },
+  "dependencies": {
+    "bcryptjs": "3.0.3",
+    "express": "4.22.3",
+    "multer": "2.4.0",
+    "mysql2": "3.24.5"
+  }
+}

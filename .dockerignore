@@ -1,0 +1,22 @@
+# 构建上下文里排除的东西（镜像越小，部署越快）
+node_modules
+npm-debug.log*
+.git
+.gitignore
+.github
+docs
+examples
+tests
+data
+storage/uploads
+storage/logs
+storage/cache
+storage/static
+*.sqlite
+*.sqlite-journal
+*.sqlite-wal
+*.sqlite-shm
+.env
+.env.*
+*.md
+!README.md
