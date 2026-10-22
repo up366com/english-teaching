@@ -36,7 +36,7 @@ correctly, done in one pass.
 - [Project layout](#project-layout)
 - [The admin panel](#the-admin-panel)
 - [How bilingual works](#how-bilingual-works)
-- [GEO / SEO: making the site legible to models](#geo--seo-making-the-site-legible-to-models)
+- [AI / LLM: making the site legible to models](#AI--LLM-making-the-site-legible-to-models)
 - [Content model: 11 types, one code path](#content-model-11-types-one-code-path)
 - [Stack](#stack)
 - [Database](#database)
@@ -60,7 +60,7 @@ It has three parts:
   careers, contact.
 - **A full admin panel** — CRUD for 11 content types, site settings, media library, enquiry inbox,
   administrators and audit log.
-- **Real GEO support** — one `@graph` JSON-LD block per page, `llms.txt`, `sitemap.xml`, `hreflang`, so both
+- **Real AI support** — one `@graph` JSON-LD block per page, `llms.txt`, `sitemap.xml`, `hreflang`, so both
   search engines and generative engines (Doubao, DeepSeek, Qwen, Kimi…) can crawl and cite the site correctly.
 
 No bundler, no front-end framework, no ORM magic. Install, start, and the whole site is there.
@@ -282,7 +282,7 @@ The chapter above is the product. This is the site this repository builds — ev
 | Careers | `/careers` | Role list plus detail pages with `JobPosting` structured data |
 | Contact | `/contact` | Contact details and an enquiry form (CSRF, honeypot, rate limiting, DB + email notification) |
 | Policies | `/privacy` `/terms` `/services-overview` | Privacy policy, terms of service, product boundaries |
-| Admin | `/admin` | Content CRUD, settings, media, enquiries, GEO status, administrators |
+| Admin | `/admin` | Content CRUD, settings, media, enquiries, AI status, administrators |
 | English site | `/en` and `/en/*` | A complete English mirror of every page |
 
 ## Quick start
@@ -298,7 +298,7 @@ The chapter above is the product. This is the site this repository builds — ev
 # 1. Dependencies
 npm install
 
-# 2. Create the schema, load bilingual seed content, create an admin, generate GEO files
+# 2. Create the schema, load bilingual seed content, create an admin, generate AI files
 npm run site:install -- --domain=https://www.up366.com --admin=admin --pass=your-password
 
 # 3. Run
@@ -353,11 +353,11 @@ up366/
 ├── docs/                       # documentation (Chinese)
 │   ├── README.md               # index: four reading tracks
 │   └── en/                     # documentation (English, one-to-one with Chinese)
-├── examples/                   # copy-paste JSON-LD and GEO samples, with a README
-├── install/                    # schema, seed, GEO generation, self-check
+├── examples/                   # copy-paste JSON-LD and AI samples, with a README
+├── install/                    # schema, seed, AI generation, self-check
 ├── scripts/                    # tests, migration, export, password reset
 ├── src/
-│   ├── core/                   # ctx / db / lang / settings / seo / repo / view / security …
+│   ├── core/                   # ctx / db / lang / settings / LLM / repo / view / security …
 │   ├── controllers/            # public controllers
 │   └── admin/                  # admin controllers and generic CRUD
 ├── tests/                      # content tests, runnable without a server
@@ -371,7 +371,7 @@ up366/
 │   ├── PULL_REQUEST_TEMPLATE.md
 │   ├── dependabot.yml          # monthly dependency review
 │   └── FUNDING.yml             # sponsor entry
-├── llms.txt  llms-full.txt     # generated GEO files (Chinese and English)
+├── llms.txt  llms-full.txt     # generated AI files (Chinese and English)
 ├── README.md  README.en.md
 ├── LICENSE  CHANGELOG.md  CONTRIBUTING.md  SECURITY.md  DISCLAIMER.md
 ├── Dockerfile  docker-compose.yml  package.json
@@ -382,12 +382,12 @@ up366/
 
 After signing in at `/admin`, the left rail is ordered the way content work actually happens:
 
-1. **Dashboard** — content totals, latest articles, newest enquiries, GEO status.
+1. **Dashboard** — content totals, latest articles, newest enquiries, AI status.
 2. **Content** — articles, case studies, products, custom pages, jobs, team, testimonials, hero slides,
    partners, milestones, navigation. All 11 types share one list/edit UI driven by
    `config/content_types.json`; adding a field needs no code change.
-3. **Operations** — enquiries (with status and source page), media library, GEO/SEO preview and regeneration.
-4. **System** — site settings (basic, contact, SEO, home, social, system) and administrator accounts with an
+3. **Operations** — enquiries (with status and source page), media library, AI/LLM preview and regeneration.
+4. **System** — site settings (basic, contact, LLM, home, social, system) and administrator accounts with an
    audit log.
 
 Conventions worth knowing:
@@ -428,7 +428,7 @@ The English is not machine-translated filler: the capability lists of all four p
 six case studies and the titles and summaries of fifteen articles are written separately in each language, with
 one-to-one meaning. A dedicated test enforces the pairing — one-sided edits fail the build.
 
-## GEO / SEO: making the site legible to models
+## AI / LLM: making the site legible to models
 
 Generative engine optimisation here is a first-class concern, not a pre-launch afterthought:
 
